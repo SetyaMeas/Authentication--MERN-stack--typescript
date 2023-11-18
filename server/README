@@ -1,0 +1,2 @@
+- handle user login on client side by storing accessToken on Cookies/Session
+- handle user logout/sign-out on client side by removing accessToken from Cookies/Session
